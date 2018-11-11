@@ -1,0 +1,12 @@
+.bg h1{
+    color:white ;
+}
+.bg h2{
+    color: whitesmoke;
+}
+.carousel slide{
+    margin-top: initial;
+    margin-left: 250px;
+    padding: 10px 20px;
+    position: absolute;
+}
